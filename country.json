@@ -1,0 +1,66 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.usa",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "flags3",
+      "name": "Pack Flags (3)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "flags2",
+      "name": "Pack Flags (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "flags1",
+      "name": "Pack Flags (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "pack1",
+      "name": "Pack 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack2",
+      "name": "Pack 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack3",
+      "name": "Pack 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack4",
+      "name": "Pack 4",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack5",
+      "name": "Pack 5",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "states1",
+      "name": "Pack States 1",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "states2",
+      "name": "Pack States 2",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.usa",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "usa2023",
+      "name": "Soccer Team 2023",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "nba2223w1",
+      "name": "Nuggets Champions 22-23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "nba2223w2",
+      "name": "Nuggets Champions 22-23 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022usa",
+      "name": "Usa 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022leyends",
+      "name": "Leyends 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "rogerfederer",
+      "name": "Thanks Roger",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "qatar2022a",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "nbaboston",
+      "name": "NBA Boston",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "nbadetroit",
+      "name": "NBA Detroit",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "nbahawks",
+      "name": "NBA Hawks",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "nbalakers",
+      "name": "NBA Lakers",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "nbanuggets",
+      "name": "NBA Nuggets",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "nbaorlando",
+      "name": "NBA Orlando",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "nbabrooklyn",
+      "name": "NBA Brooklyn",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    }
+  ]
+}
