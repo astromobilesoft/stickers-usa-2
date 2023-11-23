@@ -4,9 +4,15 @@
   "sticker_packs": [
     {
       "identifier": "thanksgiving",
-      "name": "Happy Thanksgiving",
+      "name": "Happy Thanksgiving (1)",
       "animated_sticker_pack": false,
       "stickers": "14"
+    },
+    {
+      "identifier": "thanksgivinga1",
+      "name": "Happy Thanksgiving (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
     },
     {
       "identifier": "laborday",
