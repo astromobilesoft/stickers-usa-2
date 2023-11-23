@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "thanksgiving",
+      "name": "Happy Thanksgiving",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
       "identifier": "laborday",
       "name": "Pack Labor Day (1)",
       "animated_sticker_pack": false,
@@ -78,12 +84,6 @@
       "identifier": "newyear2023b",
       "name": "New Year 2023 (2)",
       "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "thanksgiving",
-      "name": "Happy Thanksgiving",
-      "animated_sticker_pack": false,
       "stickers": "14"
     },
     {
