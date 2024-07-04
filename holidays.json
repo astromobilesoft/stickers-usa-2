@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "4thofjuly",
+      "name": "Happy 4th of July (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "4thofjuly2",
+      "name": "Happy 4th of July (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
       "identifier": "17marcha1",
       "name": "Saint Patricks (1)",
       "animated_sticker_pack": true,
@@ -61,18 +73,6 @@
       "name": "Pack Labor Day (2)",
       "animated_sticker_pack": true,
       "stickers": "12"
-    },
-    {
-      "identifier": "4thofjuly",
-      "name": "Happy 4th of July (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "4thofjuly2",
-      "name": "Happy 4th of July (2)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
     },
     {
       "identifier": "pride",
