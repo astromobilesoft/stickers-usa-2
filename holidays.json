@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"laborday",
+         "name":"Labor Day (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"labordaya1",
+         "name":"Labor Day (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"4thofjuly",
          "name":"Happy 4th of July (1)",
          "animated_sticker_pack":true,
@@ -65,18 +77,6 @@
       {
          "identifier":"happyvalentine2",
          "name":"Happy Valentine (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"laborday",
-         "name":"Pack Labor Day (1)",
-         "animated_sticker_pack":false,
-         "stickers":"14"
-      },
-      {
-         "identifier":"labordaya1",
-         "name":"Pack Labor Day (2)",
          "animated_sticker_pack":true,
          "stickers":"12"
       },

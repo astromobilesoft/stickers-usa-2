@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"laborday",
+         "name":"Labor Day (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"labordaya1",
+         "name":"Labor Day (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier": "acdc1",
          "name": "ACDC 1",
          "animated_sticker_pack": true,
@@ -157,18 +169,6 @@
          "name":"Rangers Champions 2023",
          "animated_sticker_pack":false,
          "stickers":"17"
-      },
-      {
-         "identifier":"laborday",
-         "name":"Pack Labor Day (1)",
-         "animated_sticker_pack":false,
-         "stickers":"14"
-      },
-      {
-         "identifier":"labordaya1",
-         "name":"Pack Labor Day (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"4thofjuly",
