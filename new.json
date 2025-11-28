@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"thanksgiving",
+         "name":"Happy Thanksgiving (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"thanksgivinga1",
+         "name":"Happy Thanksgiving (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"thanksgivinga2",
+         "name":"Happy Thanksgiving (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"halloween1",
          "name":"Halloween 1",
          "animated_sticker_pack":true,
@@ -211,24 +229,6 @@
          "name":"Christmas Tree",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"thanksgiving",
-         "name":"Happy Thanksgiving (1)",
-         "animated_sticker_pack":false,
-         "stickers":"14"
-      },
-      {
-         "identifier":"thanksgivinga1",
-         "name":"Happy Thanksgiving (2)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"thanksgivinga2",
-         "name":"Happy Thanksgiving (3)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
       },
       {
          "identifier":"trump2024",
