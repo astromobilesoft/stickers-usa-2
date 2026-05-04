@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"5mayoa1",
+         "name":"5 de Mayo (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"5mayoa2",
+         "name":"5 de Mayo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"18"
+      },      
+      {
          "identifier":"merrychristmas1",
          "name":"Merry Christmas (1)",
          "animated_sticker_pack":true,
