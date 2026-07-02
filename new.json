@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026usaf32",
+         "name":"USA vs Bosnia & Herzegovina",
+         "animated_sticker_pack":true,
+         "stickers":"27"
+      },
+      {
          "identifier":"5mayoa1",
          "name":"5 de Mayo (1)",
          "animated_sticker_pack":true,
