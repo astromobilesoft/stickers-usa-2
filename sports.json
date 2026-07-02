@@ -2,12 +2,12 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.usa",
   "ios_app_store_link": "",
   "sticker_packs": [
-    {
+      {
          "identifier":"worldcup2026usaf32",
          "name":"USA vs Bosnia & Herzegovina",
-         "animated_sticker_pack":true,
+         "animated_sticker_pack":false,
          "stickers":"27"
-    },    
+      },  
     {
       "identifier": "copaamerica2024fg1",
       "name": "USA vs Bolivia",
