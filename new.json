@@ -937,8 +937,7 @@
          "identifier":"states2",
          "name":"Pack States 2",
          "animated_sticker_pack":false,
-         "stickers":"25",
-         "date":"22/10"      
+         "stickers":"25" 
       }
    ]
 }
