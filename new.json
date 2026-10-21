@@ -12,61 +12,71 @@
          "identifier":"5mayoa1",
          "name":"5 de Mayo (1)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"05/05"
       },
       {
          "identifier":"5mayoa2",
          "name":"5 de Mayo (2)",
          "animated_sticker_pack":true,
-         "stickers":"18"
+         "stickers":"18",
+         "date":"05/05"
       },      
       {
          "identifier":"merrychristmas1",
          "name":"Merry Christmas (1)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"25/12"
       },
       {
          "identifier":"merrychristmas2",
          "name":"Merry Christmas (2)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"25/12"         
       },
       {
          "identifier":"merrychristmas3",
          "name":"Merry Christmas (3)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"25/12"         
       },
       {
          "identifier":"merrychristmas4",
          "name":"Merry Christmas (4)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"25/12"                  
       },
       {
          "identifier":"merrychristmas5",
          "name":"Merry Christmas (5)",
          "animated_sticker_pack":true,
-         "stickers":"8"
+         "stickers":"8",
+         "date":"25/12"                  
       },
       {
          "identifier":"merrychristmas6",
          "name":"Merry Christmas (6)",
          "animated_sticker_pack":true,
-         "stickers":"16"
+         "stickers":"16",
+         "date":"25/12"                  
       },
       {
          "identifier":"christmastree",
          "name":"Christmas Tree",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"25/12"                  
       },
       {
          "identifier":"thanksgiving",
          "name":"Happy Thanksgiving (1)",
          "animated_sticker_pack":false,
-         "stickers":"14"
+         "stickers":"14",
+         "date":"25/12"                  
       },
       {
          "identifier":"thanksgivinga1",
@@ -84,73 +94,85 @@
          "identifier":"halloween1",
          "name":"Halloween 1",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"31/10"
       },
       {
          "identifier":"halloween2",
          "name":"Halloween 2",
          "animated_sticker_pack":true,
-         "stickers":"9"
+         "stickers":"9",
+         "date":"31/10"         
       },
       {
          "identifier":"halloween3",
          "name":"Halloween 3",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date":"31/10"         
       },
       {
          "identifier":"halloween4",
          "name":"Halloween 4",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date":"31/10"
       },
       {
          "identifier":"halloween5",
          "name":"Halloween 5",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date":"31/10"
       },
       {
          "identifier":"halloween6",
          "name":"Halloween 6",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date":"31/10"
       },
       {
          "identifier":"halloween7",
          "name":"Halloween 7",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date":"31/10"
       },
       {
          "identifier":"halloween8",
          "name":"Halloween 8",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date":"31/10"
       },
       {
          "identifier":"halloween9",
          "name":"Halloween 9",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"31/10"
       },
       {
          "identifier":"halloween10",
          "name":"Halloween 10",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"31/10"
       },
       {
          "identifier":"halloween11",
          "name":"Halloween 11",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date":"31/10"
       },
       {
          "identifier":"halloween12",
          "name":"Halloween 12",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date":"31/10"
       },
       {
          "identifier":"laborday",
@@ -180,13 +202,15 @@
          "identifier":"4thofjuly",
          "name":"Happy 4th of July (1)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"04/07"
       },
       {
          "identifier":"4thofjuly2",
          "name":"Happy 4th of July (2)",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date":"04/07"         
       },
       {
          "identifier":"happyeaster1",
@@ -210,31 +234,36 @@
          "identifier":"17marcha1",
          "name":"Saint Patricks (1)",
          "animated_sticker_pack":true,
-         "stickers":"17"
+         "stickers":"17",
+         "date":"17/03"         
       },
       {
          "identifier":"17marcha2",
          "name":"Saint Patricks (2)",
          "animated_sticker_pack":true,
-         "stickers":"17"
+         "stickers":"17",
+         "date":"17/03"                  
       },
       {
          "identifier":"17marcha3",
          "name":"Saint Patricks (3)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"17/03"                  
       },
       {
          "identifier":"happyvalentine1",
          "name":"Happy Valentine (1)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"24/02"                  
       },
       {
          "identifier":"happyvalentine2",
          "name":"Happy Valentine (2)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"24/02"         
       },
       {
          "identifier":"pride",
@@ -279,16 +308,11 @@
          "stickers":"25"
       },
       {
-         "identifier":"5mayoa1",
-         "name":"5 de Mayo",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
          "identifier":"8marcha1",
          "name":"Happy Womens Day",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date":"08/03"         
       },
       {
          "identifier":"ukrainea1",
@@ -378,31 +402,36 @@
          "identifier":"happymothersday1",
          "name":"Happy Mothers Day 1",
          "animated_sticker_pack":true,
-         "stickers":"17"
+         "stickers":"17",
+         "date":"02/05"         
       },
       {
          "identifier":"happymothersday2",
          "name":"Happy Mothers Day 2",
          "animated_sticker_pack":true,
-         "stickers":"17"
+         "stickers":"17",
+         "date":"02/05"         
       },
       {
          "identifier":"happymothersday3",
          "name":"Happy Mothers Day 3",
          "animated_sticker_pack":false,
-         "stickers":"21"
+         "stickers":"21",
+         "date":"02/05"
       },
       {
          "identifier":"kissday1",
          "name":"Kiss Day 1",
          "animated_sticker_pack":true,
-         "stickers":"16"
+         "stickers":"16",
+         "date":"13/04"         
       },
       {
          "identifier":"kissday2",
          "name":"Kiss Day 2",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date":"13/04"         
       },
       {
          "identifier":"qatar2022a",
@@ -438,7 +467,8 @@
          "identifier":"saintpatricks1",
          "name":"Saint Patricks",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date":"17/03"
       },
       {
          "identifier":"superbowl1",
@@ -480,7 +510,8 @@
          "identifier":"veteransday1",
          "name":"Veterans Day",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date":"11/11"         
       },
       {
          "identifier":"taylorswift1",
@@ -906,7 +937,8 @@
          "identifier":"states2",
          "name":"Pack States 2",
          "animated_sticker_pack":false,
-         "stickers":"25"
+         "stickers":"25",
+         "date":"22/10"      
       }
    ]
 }
